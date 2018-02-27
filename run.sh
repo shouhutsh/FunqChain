@@ -1,0 +1,1 @@
+mvn spring-boot:run -Duser.timezone=GMT+08
